@@ -1,1 +1,1 @@
-The images were obtained from the pfficial ADNI website. For this project, 2D images were used instead of using slices of the 3D image.
+The images were obtained from the official ADNI website. For this project, 2D images were used instead of using slices of the 3D image.
