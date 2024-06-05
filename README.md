@@ -14,5 +14,6 @@ This project aims to detect Alzheimer's disease using a combination of Convoluti
 - Scikit-learn
 
 References:
+
 https://www.kaggle.com/datasets/madhucharan/alzheimersdisease5classdatasetadni/data
 https://github.com/rsinghlab/MADDi/tree/main?tab=readme-ov-file
