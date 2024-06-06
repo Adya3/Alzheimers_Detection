@@ -7,7 +7,6 @@ This project aims to detect Alzheimer's disease using a combination of Convoluti
 
 - Python 3.7+
 - TensorFlow 2.x
-- LightGBM
 - OpenCV
 - NumPy
 - Pandas
